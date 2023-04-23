@@ -10,7 +10,7 @@
     "imagemin-pngquant": "^5.1.0"
   },
   "devDependencies": {
-    "gulp-autoprefixer": "^5.0.0",
+    "gulp-autoprefixer": "^8.0.0",
     "gulp-clean-css": "^3.9.3",
     "gulp-htmlhint": "^2.1.0",
     "gulp-imagemin": "^4.1.0",
